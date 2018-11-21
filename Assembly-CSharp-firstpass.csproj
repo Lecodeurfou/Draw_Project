@@ -273,6 +273,9 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>C:/Users/Dwaygon/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
  </Reference>
+ <Reference Include="InteractionEngineUtility">
+ <HintPath>C:/Users/Dwaygon/Documents/Munster1/Projet_tuto/Draw_Project/Assets/LeapMotion/Modules/InteractionEngine/Plugins/InteractionEngineUtility.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
