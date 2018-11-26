@@ -1,4 +1,10 @@
 sceneSetups:
 - path: Assets/1st_Scene.unity
   isLoaded: 1
+  isActive: 0
+- path: Assets/LeapMotion/Modules/Hands/Examples/Scenes/Hands_Viewer_Demo.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/LeapMotion/Core/Examples/Capsule Hands (Desktop).unity
+  isLoaded: 1
   isActive: 1
