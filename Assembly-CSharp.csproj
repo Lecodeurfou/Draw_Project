@@ -370,6 +370,7 @@
      <None Include="Assets\PostProcessing\Resources\Shaders\MotionBlur.shader" />
      <None Include="Assets\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
      <None Include="Assets\LeapMotion\Core\Dependencies.txt" />
+     <None Include="Assets\Shader_hand_make\oil_painting.shader" />
      <None Include="Assets\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\BuiltinDebugViews.shader" />
      <None Include="Assets\LeapMotion\Core\Shaders\ThresholdOverlay.shader" />

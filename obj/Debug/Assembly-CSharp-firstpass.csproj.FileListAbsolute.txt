@@ -129,3 +129,4 @@ C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project\Temp\bin\Debug\Unit
 C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project\Temp\bin\Debug\InteractionEngineUtility.dll
