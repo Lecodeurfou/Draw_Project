@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Custom/oil_painting" {
+Shader "Hand_Make/oil_painting" {
     Properties
     {
         _MainTex("Texture", 2D) = "white" {}
