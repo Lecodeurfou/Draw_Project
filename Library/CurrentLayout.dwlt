@@ -366,14 +366,14 @@ MonoBehaviour:
     height: 432
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 13021.00924845519
+  lastFramingTime: 2339.5506420399843
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.5755751, y: 1.9523187, z: 4.2353497}
+    m_Target: {x: -3.39, y: 1.05, z: 3.35}
     speed: 2
-    m_Value: {x: -1.5755751, y: 1.9523187, z: 4.2353497}
+    m_Value: {x: -3.39, y: 1.05, z: 3.35}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -397,13 +397,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.20351444, y: -0.14653903, z: 0.030822942, w: -0.96755266}
+    m_Target: {x: -0.2458766, y: -0.1321172, z: 0.03385008, w: -0.95965827}
     speed: 2
-    m_Value: {x: -0.20351446, y: -0.14653903, z: 0.030822944, w: -0.9675527}
+    m_Value: {x: -0.2458766, y: -0.1321172, z: 0.03385008, w: -0.95965827}
   m_Size:
-    m_Target: 10.042861
+    m_Target: 1.9416587
     speed: 2
-    m_Value: 10.042861
+    m_Value: 1.9416587
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -514,14 +514,14 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Texture
+  - Assets/Shader_hand_make
   m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\Users\Dwaygon\Documents\Munster1\Projet_tuto\Draw_Project
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 05ca9a3b
-    m_LastClickedID: 1000000005
+    m_SelectedIDs: de2c0000
+    m_LastClickedID: 11486
     m_ExpandedIDs: 00000000542b0000942b0000bc2b0000382c00003a2c0000382d0000842d0000b22d0000b42d0000c22d0000ea2d0000fe2d00001e2e0000642e00006c2e0000d82e0000de2e0000e42e0000402f0000d22f000092300000ea300000403100007231000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -577,7 +577,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 222d0000862e0000882b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
